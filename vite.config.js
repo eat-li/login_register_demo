@@ -26,5 +26,5 @@ export default defineConfig({
     //配置项目自动打开
     open: true,
     //配置打开的地址
-  }
+  },
 })
